@@ -1,5 +1,5 @@
 classes = 3
 train = /home/blueinno/darknet/skss-2020/marine/train.txt 
 valid = /home/blueinno/darknet/skss-2020/marine/test.txt
-names = /home/blueinno/darknet/skss-2020/marine/obj_marine.names
+names = obj_marine.names
 backup = /home/blueinno/darknet/skss-2020/marine/backup
